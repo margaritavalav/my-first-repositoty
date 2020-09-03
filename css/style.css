@@ -7,20 +7,24 @@ h1 {
         color: #354f52;
         text-align: center;
         padding: 20px 0px;
-
+        font-family: 'Alfa Slab One';
 }
+
 
 #dropdownMenuButton {
     width: 200px; 
     margin: 10px auto; 
     display: block;
+
 }
 
 h4 {
-    color: #2d6a4f
+    color: #2d6a4f;
+    font-family: 'Carter One';
 }
 
 
 h3 {
-    color: #80b918
+    color: #80b918;
+    font-family: 'Bangers';
 }
